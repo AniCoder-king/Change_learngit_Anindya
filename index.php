@@ -1,8 +1,6 @@
 <?php
 
-echo "hello user";
-
-
-
+  echo "Hello guys";
+  echo "I've to learn about php."
 
 ?>
